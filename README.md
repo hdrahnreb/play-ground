@@ -1,3 +1,3 @@
-# idxtest
+# play-ground
 
-https://hdrahnreb.github.io/idxtest/
+https://hdrahnreb.github.io/play-ground/
